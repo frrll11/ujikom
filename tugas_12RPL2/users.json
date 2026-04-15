@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Farel Aditya",
+        "email": "farel@example.com",
+        "password": "$2y$10$\/fbI.N7sY8R4JrW0LD.nBOeIY9JMlYLg3oD5Av3z2bqKl3p33CRnK",
+        "role": "admin",
+        "created_at": "2026-02-02 07:20:35"
+    },
+    {
+        "id": 2,
+        "name": "user",
+        "email": "user@example.com",
+        "password": "$2y$10$rMvtnrw6X0wSSf6pMY7bIOaPkGbvNlA5mFe4g5htwJdyf.S.OpApa",
+        "role": "user",
+        "created_at": "2026-02-04 07:26:56"
+    },
+    {
+        "id": 3,
+        "name": "udin",
+        "email": "udin@example.com",
+        "password": "$2y$10$769KtPcV2qefTG77N72ZResumbJgSJeaIkmak3N.K9sYR6mQkKStq",
+        "role": "user",
+        "created_at": "2026-04-04 09:42:56"
+    },
+    {
+        "id": 4,
+        "name": "siti",
+        "email": "siti@example.com",
+        "password": "$2y$10$U\/i7ZOyOr9n9L0ywK8duWetaoActSqnB6NsqCtg4nrOWg3LeFa7MS",
+        "role": "user",
+        "created_at": "2026-04-14 08:31:36"
+    },
+    {
+        "id": 5,
+        "name": "jamal",
+        "email": "jamal@example.com",
+        "password": "$2y$10$0dabvq8UlEuWl4pfZkUGRO2ZV.ZMbfcg7uDZ6fRxwmTHImwwjCVBS",
+        "role": "user",
+        "created_at": "2026-04-14 21:17:42"
+    }
+]
